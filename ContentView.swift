@@ -9,7 +9,7 @@ import SwiftUI
  
 struct ContentView: View {
     
-    @State var Te: String = "Hello Everyone"
+    @State var Te: String = "Hello User!"
     @State var Un: Bool = false
     @State private var doneone:Bool = false
     @State private var donetwo:Bool = false
